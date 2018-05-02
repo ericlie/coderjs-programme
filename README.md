@@ -54,8 +54,9 @@ to another to deliver free education service for those who keen to learn new tec
 
 3rd meetup
 by : Michael Tamsil
+
 title: Backbonejs
-url: https://www.youtube.com/watch?v=WZ8kB8sfrXo&t=23s
+url: [youtube](https://www.youtube.com/watch?v=WZ8kB8sfrXo&t=23s)
 
 2nd meetup
 by : M Haidar Hanif
