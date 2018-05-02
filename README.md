@@ -52,18 +52,18 @@ to another to deliver free education service for those who keen to learn new tec
 ## Meetup_history
 
 
-3rd meetup
-by : Michael Tamsil
+3rd meetup  
+by : Michael Tamsil  
+title: Backbonejs  
+url: [youtube](https://www.youtube.com/watch?v=WZ8kB8sfrXo&t=23s),
+[github](https://github.com/michaeltamsil/management_sekolah2/tree/master)
 
-title: Backbonejs
-url: [youtube](https://www.youtube.com/watch?v=WZ8kB8sfrXo&t=23s)
+2nd meetup  
+by : M Haidar Hanif  
+title : Nodejs  
 
-2nd meetup
-by : M Haidar Hanif
-title : Nodejs
-
-1st mettup
-by : 
+1st mettup  
+by :  
 title : meet & greet
 
 -- SHARING IS CARING --
