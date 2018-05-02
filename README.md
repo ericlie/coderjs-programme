@@ -11,6 +11,7 @@
 - [Rookie JS](#rookie-js)
 - [Female JS](#female-js)
 - [Kampung JS](#kampung-js)
+- [Meetup history](#meetup_history)
 
 ## Learn From Expert
 
@@ -47,5 +48,21 @@ prohibited to join unless ...
 
 Education is very important yet most of them are barely afford it! We move from one kampung (village) to
 to another to deliver free education service for those who keen to learn new technology and knowledge!
+
+## Meetup_history
+
+
+3rd meetup
+by : Michael Tamsil
+title: Backbonejs
+url: https://www.youtube.com/watch?v=WZ8kB8sfrXo&t=23s
+
+2nd meetup
+by : M Haidar Hanif
+title : Nodejs
+
+1st mettup
+by : 
+title : meet & greet
 
 -- SHARING IS CARING --
