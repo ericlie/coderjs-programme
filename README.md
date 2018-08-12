@@ -3,6 +3,8 @@
 
 <div style="text-align:center"><img src ="./assets/coderjs.png" /></div>
 
+![](./assets/activity/meet7.jpg)
+
  ## Team Management (Volunteer)
 - Joko Auditis
 - Moh. Amirul Fatta
@@ -110,4 +112,15 @@ Title: Ngaji Coding
 ![](./assets/contribute.jpg)
 
 Coding Mum   
+
+## History
+![](./assets/activity/meet7.jpg)
+![](./assets/activity/meet6.jpg)
+![](./assets/activity/meet5.jpg)
+![](./assets/activity/meet.jpg)
+![](./assets/activity/meet1.jpg)
+![](./assets/activity/meet2.jpg)
+![](./assets/activity/meet4.jpg)
+
+   
   
